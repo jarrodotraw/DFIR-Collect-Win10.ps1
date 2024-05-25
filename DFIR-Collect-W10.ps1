@@ -23,6 +23,7 @@
     Under the GPL license.
 
    (c) 2019, Juan Vera (juanvvc@gmail.com)
+   (modified) 2024, Jarro (jarrodotraw@gmail.com)
 #>
 
 # Configuration parameters from the command line
